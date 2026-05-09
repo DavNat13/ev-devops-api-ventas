@@ -14,3 +14,4 @@ import org.springframework.context.annotation.Configuration;
 )
 public class OpenApiConfing {
 }
+// Esta clase configura la documentación de la API REST utilizando OpenAPI (Swagger) para el proyecto de ventas. Proporciona información básica sobre la API, como el título, la versión y una descripción. Esto permitirá a los desarrolladores y usuarios de la API entender mejor su propósito y cómo utilizarla.
